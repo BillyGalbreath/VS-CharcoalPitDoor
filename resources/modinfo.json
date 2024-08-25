@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "name": "Charcoal Pit Door",
+  "modid": "charcoalpitdoor",
+  "version": "1.0.0",
+  "description": "Allows iron doors to seal charcoal pits",
+  "authors": [ "BillyGalbreath" ],
+  "dependencies": {
+    "game": "1.19.0"
+  }
+}
